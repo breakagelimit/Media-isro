@@ -1,0 +1,5 @@
+Language = "English"
+Country = "Global"
+GameType = "SRO Vietnam TestLocal"
+MarkFTPAddr = "Divin:sro@87.106.4.14"
+MarkFTPPath = "SRO_CREST"
